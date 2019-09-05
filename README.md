@@ -14,4 +14,5 @@
 
 ### 本班与其他班分组的情况
 周义青（与4班同学结组）https://github.com/gaoxinyue/software-process-homework
+张丽坤，杜浩裕，杨飞宇（与7、8班同学结组）https://github.com/jiantaoyou/Software
 
