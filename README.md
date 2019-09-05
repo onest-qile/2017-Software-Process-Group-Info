@@ -14,6 +14,6 @@
 |12|ADG小男孩队|刘万里（组长）	林桃	李啸昆	蔡子轩	安佳	刘佳豪|https://github.com/wanliliuxiansen/ADG-|待定|
 
 ### 本班与其他班分组的情况
-周义青（与4班同学结组）https://github.com/gaoxinyue/software-process-homework
+周义青（与4班同学结组）https://github.com/gaoxinyue/software-process-homework  
 张丽坤，杜浩裕，杨飞宇（与7、8班同学结组）https://github.com/jiantaoyou/Software
 
