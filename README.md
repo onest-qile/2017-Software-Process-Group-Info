@@ -6,3 +6,9 @@
 |4|SEVEN|徐春阳（组长）	冯家亨	侯雪鹏	孟宜壕	吴东枚	李晓萌	董翔燚|https://github.com/xcy999/Seven|待定|
 |5|你别说了，听我的|李和谦（组长）	孙建旺	孙宇飞	刘梦圆	许莹心	程璐	张彤|https://github.com/LiHeQian6/team|待定|
 |6|prograMe|闫昆（组长）	李奥	杜剑	卢旺达	梁栋	郑芯蕊|https://github.com/KaydenYan/prograMe|待定|
+|7|The Sound of Silence|张帅华（组长）	景光赞	杨锡涛	李帅|https://github.com/zhangshuaihua2017/Java|待定|
+|8|cxk队|周亦钊（组长）	方晓伟	马云龙	冯聪	薛超凡|https://github.com/zhouyizhao/cxk|待定|
+
+# 本班与其他班分组的情况
+周义青（与4班同学结组）
+
