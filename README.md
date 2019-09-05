@@ -12,6 +12,10 @@
 |10|期末高分组|闫儒彪（组长）	薛宝祥	刘彬	邓敖|https://github.com/yanrubiao111/software-engineering|待定|
 |11|world|代天放（组长）	赵晓宇	许凯	李汉霄	赵政|https://github.com/daifang/The-world|待定|
 |12|ADG小男孩队|刘万里（组长）	林桃	李啸昆	蔡子轩	安佳	刘佳豪|https://github.com/wanliliuxiansen/ADG-|待定|
+|13|eagleTeam|吕学齐（组长）	王天伟	霍学锐	张傲阳	李同	徐航|https://github.com/lvxueqi666/eagleTeam|待定|
+|14|start from scratch|张璐婷（组长）	李春波	王佳成	邸祯策	邸凯扬|https://github.com/zhangluting123/SoftwareEngineering|待定|
+|15|HEALER战队|徐铮（组长）	周弘	曹倩	候玉芹	吴金雅	周宣	高清鑫|https://github.com/xzicon/HEALER|待定|
+|16|发际线总是和我作队|高予蜀（组长）	孙童	董心	黄碧莲	王陆宇	王梦	牛玉欣|https://github.com/gaoyushu/wodoudui|待定|
 
 ### 本班与其他班分组的情况
 周义青（与4班同学结组）https://github.com/gaoxinyue/software-process-homework  
