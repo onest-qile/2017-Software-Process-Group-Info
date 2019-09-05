@@ -12,5 +12,5 @@
 |10|期末高分组|闫儒彪（组长）	薛宝祥	刘彬	邓敖|https://github.com/yanrubiao111/software-engineering|待定|
 
 ### 本班与其他班分组的情况
-周义青（与4班同学结组）
+周义青（与4班同学结组）https://github.com/gaoxinyue/software-process-homework
 
