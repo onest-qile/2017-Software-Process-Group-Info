@@ -10,6 +10,7 @@
 |8|cxk队|周亦钊（组长）	方晓伟	马云龙	冯聪	薛超凡|https://github.com/zhouyizhao/cxk|待定|
 |9|hope of the whole village|郑玉莹（组长）	闫文鑫	黄瑞如	刘莉娅	张梦如	谢卿卉|https://github.com/zhengyuyingzyy/hope-of-the-whole-village|待定|
 |10|期末高分组|闫儒彪（组长）	薛宝祥	刘彬	邓敖|https://github.com/yanrubiao111/software-engineering|待定|
+|11|world|代天放（组长）	赵晓宇	许凯	李汉霄	赵政|https://github.com/daifang/The-world|待定|
 
 ### 本班与其他班分组的情况
 周义青（与4班同学结组）https://github.com/gaoxinyue/software-process-homework
